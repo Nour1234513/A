@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+<<<<<<< HEAD
+    <multipleDevicesSelectedInDropDown value="true" />
+    <runningDeviceTargetsSelectedWithDialog>
+      <Target>
+        <type value="RUNNING_DEVICE_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\nourn\.android\avd\Pixel_7_Pro_API_34.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+      <Target>
+        <type value="RUNNING_DEVICE_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\nourn\.android\avd\Pixel_7_Pro_API_34_2.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+    </runningDeviceTargetsSelectedWithDialog>
+=======
+<<<<<<< HEAD
+    <targetSelectedWithDropDown>
+=======
+>>>>>>> b9e604fd40b3fb224f52a998cae5d76c5f6d5e94
+    <targetsSelectedWithDialog>
+>>>>>>> c84ecd655b8e6bbb74aac841f8f5c70d42cb1c45
+      <Target>
+        <type value="QUICK_BOOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+<<<<<<< HEAD
+            <value value="C:\Users\majdd\.android\avd\Pixel_6_Pro_API_34.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+    </targetSelectedWithDropDown>
+    <timeTargetWasSelectedWithDropDown value="2023-11-29T00:58:53.205352800Z" />
+=======
+            <value value="C:\Users\nourn\.android\avd\Pixel_7_Pro_API_34.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+      <Target>
+        <type value="QUICK_BOOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\nourn\.android\avd\Pixel_7_Pro_API_34_2.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+    </targetsSelectedWithDialog>
+>>>>>>> c84ecd655b8e6bbb74aac841f8f5c70d42cb1c45
+  </component>
+</project>
