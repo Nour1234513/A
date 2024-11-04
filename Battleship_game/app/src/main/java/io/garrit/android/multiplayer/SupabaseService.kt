@@ -106,8 +106,8 @@ interface SupabaseCallback {
 object SupabaseService {
     private val coroutineScope = CoroutineScope(Dispatchers.Main)
     private val _type: GameType = GameType.BATTLESHIPS
-    private const val _supabaseUrl = 
-    private const val _supabaseKey = 
+    private const val _supabaseUrl = secrets.URL
+    private const val _supabaseKey = secrets.KEY
     private val _client = createSupabaseClient(supabaseUrl = _supabaseUrl, supabaseKey = _supabaseKey) {
         install(Realtime)
     }
